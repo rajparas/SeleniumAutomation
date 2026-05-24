@@ -1,0 +1,6 @@
+00:38:51.107 [main] ERROR com.Demo - Error message
+00:38:51.110 [main] FATAL com.Demo - Fatal message
+00:39:08.666 [main] INFO  org.Demo - Info message
+00:39:08.668 [main] DEBUG org.Demo - Debug message
+00:39:08.670 [main] ERROR org.Demo - Error message
+00:39:08.670 [main] FATAL org.Demo - Fatal message
