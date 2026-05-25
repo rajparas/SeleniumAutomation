@@ -25,6 +25,14 @@ public class Demo {
 		System.out.println("Code by Indian Architect = Code 3");
 		System.out.println("Code by Indian Architect = Code 4");
 		System.out.println("Code by Indian Architect = Code 5");
+		
+		System.out.println("***************************");
+		
+		System.out.println("Code by American Architect = Code 6");
+		System.out.println("Code by American Architect = Code 7");
+		System.out.println("Code by American Architect = Code 8");
+		System.out.println("Code by American Architect = Code 9");
+		System.out.println("Code by American Architect = Code 10");
 
 	}
 
