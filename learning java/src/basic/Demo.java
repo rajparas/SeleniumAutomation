@@ -19,6 +19,12 @@ public class Demo {
 		System.out.println("Sub: " + sub);
 		System.out.println("Mul: " + mul);
 		System.out.println("Division: " + div);
+		
+		System.out.println("Code by Indian Architect = Code 1");
+		System.out.println("Code by Indian Architect = Code 2");
+		System.out.println("Code by Indian Architect = Code 3");
+		System.out.println("Code by Indian Architect = Code 4");
+		System.out.println("Code by Indian Architect = Code 5");
 
 	}
 
