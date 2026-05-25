@@ -4,3 +4,5 @@
 00:39:08.668 [main] DEBUG org.Demo - Debug message
 00:39:08.670 [main] ERROR org.Demo - Error message
 00:39:08.670 [main] FATAL org.Demo - Fatal message
+19:40:51.042 [main] ERROR com.Demo - Error message
+19:40:51.044 [main] FATAL com.Demo - Fatal message
