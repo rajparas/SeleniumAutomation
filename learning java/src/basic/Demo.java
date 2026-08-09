@@ -33,6 +33,10 @@ public class Demo {
 		System.out.println("Code by American Architect = Code 8");
 		System.out.println("Code by American Architect = Code 9");
 		System.out.println("Code by American Architect = Code 10");
+		
+		
+		
+		
 
 	}
 
